@@ -1,4 +1,4 @@
-# cifar-10-in-keras
+# CIFAR-10-in-keras
 -> CIFAR-10 object recognition dataset.
 
 -> Create a simple Convolutional Neural Network for object recognition.
